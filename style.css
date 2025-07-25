@@ -13,27 +13,34 @@
     width: 25%;
     text-align: center;
     margin: auto;
-    height: 300px;
+    height: 600px;
+}
+.samsung2{
+    background-image: url(./HOME_Feature-Card_Galaxy-Watch8-Classic_560x560.webp);
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    height: 600px;
     background-size: cover;
     background-position: center;
 }
-.samsung2{
-    display: flex;
-    width: 25%;
-    text-align: center;
-    margin: 40px;
-}
 .samsung3{
-    display: flex;
+    background-image: url(./HOME_Feature-Card_Galaxy-Watch8_560x560.webp);
     width: 25%;
     text-align: center;
-    margin: 40px;
+    margin: auto;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
 }
 .samsung4{
-    display: flex;
+    background-image: url(./Replay_Galaxy-Z-Flip7_Home_Feature_Card_560x560.avif);
     width: 25%;
     text-align: center;
-    margin: 40px;
+    margin: auto;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
 }
 .samsung1-img{
     size: 10%;
@@ -45,5 +52,17 @@
     size: 10%;
 }
 .samsung4-img{
-    size: 10%;
+    size: 20%;
+}
+.samsung-heading{
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    margin-top: 20px;
+}
+.samsung.heading{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    margin-top: 20px;
 }
