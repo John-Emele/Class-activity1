@@ -9,10 +9,13 @@
     width: 200%;
 }
 .samsung1{
-    display: flex;
+    background-image: url(./Galaxy-Z-Flip7_Home_Feature_Card_560x560.avif); 
     width: 25%;
     text-align: center;
-    margin: 40px;
+    margin: auto;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
 }
 .samsung2{
     display: flex;
