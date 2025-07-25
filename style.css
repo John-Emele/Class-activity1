@@ -4,5 +4,43 @@
     box-sizing: border-box;
 }
 .joyce{
-    width: 100%;
+    display: flex;
+    margin: auto;
+    width: 200%;
+}
+.samsung1{
+    display: flex;
+    width: 25%;
+    text-align: center;
+    margin: 40px;
+}
+.samsung2{
+    display: flex;
+    width: 25%;
+    text-align: center;
+    margin: 40px;
+}
+.samsung3{
+    display: flex;
+    width: 25%;
+    text-align: center;
+    margin: 40px;
+}
+.samsung4{
+    display: flex;
+    width: 25%;
+    text-align: center;
+    margin: 40px;
+}
+.samsung1-img{
+    size: 10%;
+}
+.samsung2-img{
+    size: 10%;
+}
+.samsung3-img{
+    size: 10%;
+}
+.samsung4-img{
+    size: 10%;
 }
