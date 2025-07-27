@@ -5,64 +5,152 @@
 }
 .joyce{
     display: flex;
-    margin: auto;
-    width: 200%;
+    width: 100%;
+    padding: auto;
+}
+.container_joyce{
+    display: flex;
+    width: 100%;
 }
 .samsung1{
-    background-image: url(./Galaxy-Z-Flip7_Home_Feature_Card_560x560.avif); 
-    width: 25%;
+    height: 400px;
+    margin-top: 40px;
+    width: 25%; 
+    background-image: url(./Galaxy-Z-Flip7_Home_Feature_Card_560x560.avif   );
+    background-position: center;
+    background-image: center; ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
     text-align: center;
-    margin: auto;
-    height: 600px;
+    margin-right: 20px;
 }
 .samsung2{
+    height: 400px;
+    margin-top: 40px;
+    width: 25%;
     background-image: url(./HOME_Feature-Card_Galaxy-Watch8-Classic_560x560.webp);
-    width: 25%;
-    text-align: center;
-    margin: auto;
-    height: 600px;
-    background-size: cover;
     background-position: center;
+    background-image: center; ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    text-align: center;
+    margin-right: 20px;
 }
+
 .samsung3{
-    background-image: url(./HOME_Feature-Card_Galaxy-Watch8_560x560.webp);
+    height: 400px;
+    margin-top: 40px;
     width: 25%;
-    text-align: center;
-    margin: auto;
-    height: 600px;
-    background-size: cover;
+    background-image: url(./HOME_Feature-Card_Galaxy-Watch8_560x560.webp    );
     background-position: center;
+    background-image: center; ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    text-align: center;
+    margin-right: 20px;
 }
 .samsung4{
-    background-image: url(./Replay_Galaxy-Z-Flip7_Home_Feature_Card_560x560.avif);
+    height: 400px;
+    margin-top: 40px;
     width: 25%;
-    text-align: center;
-    margin: auto;
-    height: 600px;
-    background-size: cover;
+    background-image: url(./Replay_Galaxy-Z-Flip7_Home_Feature_Card_560x560.avif);
     background-position: center;
-}
-.samsung1-img{
-    size: 10%;
-}
-.samsung2-img{
-    size: 10%;
-}
-.samsung3-img{
-    size: 10%;
-}
-.samsung4-img{
-    size: 20%;
+    background-image: center; ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    text-align: center;
+    margin-right: 20px;
 }
 .samsung-heading{
-    font-size: 30px;
-    font-weight: 600;
-    color: black;
+    font-size: 1.66667;
+    font-weight: 700;
+    color: #000;
+    margin-top: 20px;
+    font-family: 'SamsungSharpSans', arial, sans-serif;
+    line-height: 1.333;
+}
+.text-wrap{
+    font-size: 1.66667;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 20px;
+    font-family: 'SamsungSharpSans', arial, sans-serif;
+    line-height: 1.333;
+}
+.container_joyce h3{
+    font-size: 1.66667;
+    font-weight: 700;   
     margin-top: 20px;
 }
-.samsung.heading{
-    font-size: 20px;
-    font-weight: 600;
-    color: white;
+.joyce2{
+    display: flex;
+    padding: auto;
+}
+.container_joyce2{
+    display: flex;
+    width: 100%;
+}
+.MDVD1{
+    height: 400px;
+    margin-top: 40px;
+    width: 30%;
+    background-image: url(./MDVD_Feature_Card1_560X560.webp);
+    background-position: center;
+    background-image: center; ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+.MDVD2{
+    height: 400px;
+    margin-top: 40px;
+    width: 30%;
+    background-image: url(./MDVD_Feature_Card2_560X560.webp);
+    background-position: center;
+    background-image: center; ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+.MDVD3{
+    height: 400px;
+    margin-top: 40px;
+    width: 30%;
+    background-image: url(./MDVD_Feature_Card3_560X560.webp);
+    background-position: center;
+    background-image: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+.MDVD4{
+    height: 400px;
+    margin-top: 40px;
+    width: 30%; 
+    background-image: url(./MDVD_Feature_Card4_560X560.webp);
+    background-position: center;
+    background-image: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+.MDVD_heading{
+    font-size: 1.66667;
+    font-weight: 700;
+    color: #000;
     margin-top: 20px;
+    font-family: 'SamsungSharpSans', arial, sans-serif;
+    line-height: 1.333;
 }
